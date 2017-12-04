@@ -1,6 +1,6 @@
 # Lane-Lines
 Finding lane lines on a video file
 
-<a href="https://youtu.be/SntMT8IHwas
+<a href="https://www.youtube.com/watch?v=SntMT8IHwas
 " target="_blank"><img src="Test_videos_output/Video.png"
-alt="Model after training on the dataset  (x4 speed)" width="800" height="600" border="10" /></a>
+alt="Video 2" width="800" height="600" border="10" /></a>
